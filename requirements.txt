@@ -1,0 +1,4 @@
+moviepy>=2.0
+pillow>=10.0
+gradio>=4.0.0
+pytest>=7.0.0
