@@ -1,13 +1,3 @@
----
-title: Video Lyric Music Generator
-emoji: 🎬
-colorFrom: purple
-colorTo: red
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 A web application that generates synchronized music videos with lyrics. Upload your audio file, LRC lyrics file, and background image/video to create a complete music video with karaoke-style lyrics.
 
 ## Usage
